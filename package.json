@@ -1,0 +1,13 @@
+{
+    "scripts": {
+        "test": "npx mocha"
+    },
+    "dependencies": {
+        "got": "14.4.5"
+    },
+    "devDependencies": {
+        "mocha": "11.1.0",
+        "nock": "^14.0.0"
+    },
+    "type": "module"
+}
